@@ -1,0 +1,34 @@
+"*":
+  core:
+    disabledPackages: [
+      "go-plus"
+      "go-debug"
+      "go-signature-statusbar"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "monokai-seti"
+    ]
+  editor:
+    atomicSoftTabs: false
+    fontFamily: "Inconsolata"
+    fontSize: 12
+    invisibles: {}
+    softTabs: false
+    tabType: "soft"
+  "exception-reporting":
+    userId: "576bc760-11db-87f4-e29b-058fdc255d73"
+  "go-debug": {}
+  "go-plus":
+    panel:
+      currentHeight: "16.49484536082474vh"
+  linter: {}
+  "linter-ui-default":
+    panelHeight: 69
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
